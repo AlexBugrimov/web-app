@@ -1,2 +1,2 @@
-# web-app
-Servlets
+# Web Application
+1. Тестовое приложение с сервлетом.
